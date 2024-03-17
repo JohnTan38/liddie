@@ -1,2 +1,2 @@
-# liddy
-LIDA Auto generation for data visualizations
+# liddie
+LIDA Auto generation for data visualizations. Powered by LLMs.
